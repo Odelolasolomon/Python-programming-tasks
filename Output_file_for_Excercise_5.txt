@@ -1,0 +1,7 @@
+Number of Distinction grades: 0
+Number of Merit grades: 19
+Number of Pass grades: 27
+Number of Fail grades: 11
+
+Registration numbers of students who have failed: [1805842 1880880 1908168 1930957 1959590 1989431 2038682 2061759 2074067
+ 2106248 2130060]
